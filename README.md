@@ -8,6 +8,18 @@ This is mainly vibes based but seems work well.
 
 Guides you through an 11-phase validation process. Each phase alternates between collaborative discussion and automated web research. Ends with a **Go / Go with Conditions / Pivot / No Go** verdict saved to a markdown file.
 
+## Quick Start
+
+Marketplace Installation (Recommended)
+
+```
+# Add the marketplace
+/plugin marketplace add https://github.com/DaveBben/business-idea-skills
+
+# Install individual skills as needed
+/plugin install validate-startup@business-idea-skills
+```
+
 ### The 11 Phases are:
 
 1. **Idea, Assumptions & Customer Hypothesis** — articulate the bare idea and surface the hidden assumptions it depends on
@@ -39,7 +51,7 @@ You know your domain best.
 ## Install
 
 ```bash
-/plugin install github:DaveBben/business-idea
+
 ```
 
 Or load locally for development:

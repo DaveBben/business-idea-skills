@@ -1,5 +1,5 @@
 ---
-name: validate
+name: validate-startup
 description: Interactive startup idea validation. Use when the user presents a business idea to validate, evaluate, or stress-test, or asks whether a startup concept is worth pursuing.
 argument-hint: "business idea description"
 ---
