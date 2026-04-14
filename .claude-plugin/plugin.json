@@ -1,0 +1,9 @@
+{
+  "name": "business-idea",
+  "description": "Interactive startup idea validation through collaborative assumption testing, multi-phase web research, and go/no-go verdicts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "David bennett"
+  },
+  "license": "MIT"
+}
