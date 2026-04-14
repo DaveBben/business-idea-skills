@@ -1,0 +1,18 @@
+{
+  "name": "business-idea-validation",
+  "owner": {
+    "name": "Dave"
+  },
+  "metadata": {
+    "description": "Tools for validating startup ideas with multi-phase research and go/no-go verdicts"
+  },
+  "plugins": [
+    {
+      "name": "github-plugin",
+      "source": {
+        "source": "github",
+        "repo": "DaveBben/business-idea-skills"
+      }
+    }
+  ]
+}
