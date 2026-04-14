@@ -1,4 +1,4 @@
-# business-idea
+# Business Idea Skills
 
 A Claude Code plugin for validating startup ideas through interactive questioning and multi-phase web research.
 
