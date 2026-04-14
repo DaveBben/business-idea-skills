@@ -1,8 +1,6 @@
 # Business Idea Skills
 
-A Claude Code plugin for validating startup ideas through interactive questioning and multi-phase web research.
-
-This is mainly vibes based but seems work well.
+A Claude Code plugin for validating startup ideas through interactive questioning and multi-phase web research. This is mainly vibes based but seems work well.
 
 ## What it does
 
@@ -48,17 +46,6 @@ You know your domain best.
 - [Reddit MCP Buddy](https://github.com/karanb192/reddit-mcp-buddy) (optional) - Allows you to get back results from reddit
 - Sonnet (1M) or Opus (1M) - Opus might be better but sonnet should work fine
 
-## Install
-
-```bash
-
-```
-
-Or load locally for development:
-
-```bash
-claude --plugin-dir /path/to/startups
-```
 
 ## Usage
 
@@ -66,10 +53,10 @@ Once installed, present a business idea in any conversation:
 
 > "I want to validate an idea for a voice memo router app"
 
-Claude will invoke `/business-idea:validate` automatically, or you can call it directly:
+Claude will invoke `/validate-startup:validate-startup` automatically, or you can call it directly:
 
 ```
-/business-idea:validate
+/validate-startup:validate-startup
 ```
 
 You'll be asked where to save the final report (defaults to `~/startup-ideas/`).
